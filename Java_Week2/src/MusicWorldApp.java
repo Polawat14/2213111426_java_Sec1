@@ -19,7 +19,7 @@ static final double TAX_RATE = .0625;
 		
 		
 			JOptionPane.showMessageDialog(null, "Summary of the transaction: "+
-												"\n\nCD ID: "+ cdId +"\nCD Title: "+
+												"\n\nCD ID: "+ cdId +"\n Title: "+
 												cdTitle + "\nCD Unit Price: $"+ cdPrice + 
 												"\nCD Quantity: "+ cdQuantity + 
 												"\n\nSubtotal: $"+ cdSubtotal + 
