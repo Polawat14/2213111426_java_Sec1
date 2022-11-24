@@ -29,7 +29,7 @@ public class SalespersonSalary {
 			break;
 		}
 		System.out.println("Salary is: $"+frm.format(cal));
-		}while(sales != SENTINEL);
+		}while(true);
 		
 		System.out.println("bye");
 		 
