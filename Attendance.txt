@@ -1,4 +1,4 @@
-Student ID: 2213111426
-Fullname: Polawat Gopatta
-AKA: Front
-ClassDate: Control Statement
+StudentID  : 2213111426
+Fullname   : Polawat Gopatta
+AKA        : Front
+ClassDetail: String Methods and Defined Methods
