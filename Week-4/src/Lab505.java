@@ -23,7 +23,7 @@ public class Lab505 {
 		}while(isLength(ID,subID));
 
 	}
-	public static boolean isLength(String ID,String subID) {
+	public static boolean isLength(String chkID,String chksubID) {
 		
 	}
 
