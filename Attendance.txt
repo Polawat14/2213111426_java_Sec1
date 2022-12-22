@@ -1,4 +1,4 @@
 StudentID  : 2213111426
 Fullname   : Polawat Gopatta
 AKA        : Front
-ClassDetail: Method of string
+ClassDetail: Class and Object
