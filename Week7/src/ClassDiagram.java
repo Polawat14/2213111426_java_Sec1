@@ -21,11 +21,11 @@ public class ClassDiagram {
 		std[i].setName(scan.next());
 		
 		System.out.print("Input student score : ");
-		std[i].getScore(scan.nextInt());
+		std[i].setScore(scan.nextInt());
 		
 		while(!std[i].checkScore()) {
 			System.out.print("Input score , again :");
-			std[i].getScore(scan.nextInt());
+			std[i].setScore(scan.nextInt());
 			}
 		
 		System.out.println("------------------------------------------");
@@ -33,10 +33,10 @@ public class ClassDiagram {
 		}
 		
 		System.out.println("------------------------------------------");
-		for(int _std:student) {
-				System.out.print(">> "+_std
+		for(testClassDia _std:std) {
+				System.out.print(">> "+_std.getName()
 							+"get grade"+
-							_std+")");
+							_std.findGrade(_std.getScore())+")");
 			
 		}
 	}

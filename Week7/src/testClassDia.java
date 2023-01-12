@@ -13,7 +13,7 @@ public String getName() {
 	
 	return name;
 	}
-public void getScore(int Score) {
+public void setScore(int Score) {
 	score = Score;
 	}
 public int getScore() {
