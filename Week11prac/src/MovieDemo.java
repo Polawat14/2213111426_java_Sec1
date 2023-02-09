@@ -36,7 +36,7 @@ public class MovieDemo {
 		
 		Theater tt = new Theater(movie,Mname,Dname,email,theaterNo);
 		System.out.println(tt);
-		
+		s
 		
 
 	}
