@@ -1,4 +1,5 @@
 StudentID  : 2213111426
 Fullname   : Polawat Gopatta
 AKA        : Front
-ClassDetail: Abstract and Interface
+ClassDetail: Exception + File (W/R)
+16/2/2023
